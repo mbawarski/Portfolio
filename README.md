@@ -12,6 +12,7 @@ My name is Michał Bawarski. I have several months of experience in testing web 
 - Jira
 - nTask
 - Postman
+- Python (basics)
 - Software testing
 - Creating test scenarios and test cases
 
@@ -21,5 +22,13 @@ My name is Michał Bawarski. I have several months of experience in testing web 
 
 ## Courses 
 
+- Manual tester - IT bootcamp at CodersLab 
+- Complete SQL mastery - [codewithmosh](https://codewithmosh.com/)
+- Complete python mastery - [codewithmosh](https://codewithmosh.com/)
 
+
+## Books
+
+R.Smiglin - Zawód tester
+Albert Sweigart - Automatyzacja nudnych zadań z pythonem
 
