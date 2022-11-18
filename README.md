@@ -7,4 +7,4 @@ My name is Michał Bawarski.
 
 ## Tools
 
-**[Postman] (https://www.postman.com/)**
+**[Postman](https://www.postman.com/)**
