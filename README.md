@@ -5,6 +5,16 @@ My tester's portfolio
 
 My name is Michał Bawarski. 
 
-## Tools
+## Skills
 
-**[Postman](https://www.postman.com/)**
+- SQL
+- DevTools
+- Jira
+- nTask
+- Postman
+- Software testing
+- Creating test scenarios and test cases
+- 
+
+
+
