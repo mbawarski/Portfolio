@@ -32,3 +32,5 @@ My name is Michał Bawarski. I have several months of experience in testing web 
 - R.Smiglin - Zawód tester
 - Albert Sweigart - Automatyzacja nudnych zadań z pythonem
 
+## 
+
