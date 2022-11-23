@@ -33,8 +33,8 @@ Currently, I'm for an opportunity to gain more experience and develop as a manua
 
 ## My test documentation
 
-- test cases for [PHPTRAVELS](https://docs.google.com/spreadsheets/d/1sywHSw8baVpAjrcej5FhZhheV82CsOLt/edit?usp=share_link&ouid=107910183028375738655&rtpof=true&sd=true)
-- Bugs report for [PHPTRAVELS](https://docs.google.com/document/d/19HVr0N8bkfNu5QYAOyJCm-yYR8o9O5g5/edit?usp=share_link&ouid=107910183028375738655&rtpof=true&sd=true)
+- Test cases example [PHPTRAVELS](https://docs.google.com/spreadsheets/d/1sywHSw8baVpAjrcej5FhZhheV82CsOLt/edit?usp=share_link&ouid=107910183028375738655&rtpof=true&sd=true)
+- Bugs report exmample [PHPTRAVELS](https://docs.google.com/document/d/19HVr0N8bkfNu5QYAOyJCm-yYR8o9O5g5/edit?usp=share_link&ouid=107910183028375738655&rtpof=true&sd=true)
 
 ## Books
 
