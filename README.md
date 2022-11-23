@@ -6,7 +6,7 @@ My tester's portfolio
 My name is Michał Bawarski. I'm a certified software tester with 9 months of commercial experience in testing web applications on various environments and devices. I also have 4 years of experience in IT related e-commerce industry, especially in sales platforms like Allegro or Amazon. 
 Currently, I'm looking for an opportunity to gain more experience and growth as a manual tester. In the future, I would like to develop my skills into an automation tester.
 
-## Experience
+## My commercial experience
 
 - **Rubens Design** - A web application with advertising gadgets where the customer has the opportunity to create their gadget from scratch.
 - **Ordeca** - Web application for account management and ordering by wholesale customers.
