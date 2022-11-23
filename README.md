@@ -3,7 +3,13 @@ My tester's portfolio
 
 ## About me
 
-My name is Michał Bawarski. I have several months of experience in testing web applications on various environments and devices. In the future, I would like to develop my skills into an automation tester.
+My name is Michał Bawarski. I'm a certified software tester with 9 months of commercial experience in testing web applications on various environments and devices. I also have 4 years of experience in IT related e-commerce industry, especially in sales platforms like Allegro or Amazon. 
+Currently, I'm for an opportunity to gain more experience and develop as a manual tester.
+
+## Experience
+
+- **Rubens Design** - A web application with advertising gadgets where the customer has the opportunity to create their gadget from scratch.
+- **Ordeca** - Web application for account management and ordering by wholesale customers.
 
 ## Skills
 
@@ -12,7 +18,6 @@ My name is Michał Bawarski. I have several months of experience in testing web 
 - Jira
 - nTask
 - Postman
-- Python (basics)
 - Software testing
 - Creating test scenarios and test cases
 
