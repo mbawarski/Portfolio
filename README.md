@@ -23,7 +23,7 @@ Currently, I'm looking for an opportunity to gain more experience and growth as 
 
 ## Certificates
 
-- ISTQB - No. 11924
+- [ISTQB Foundation Level](https://drive.google.com/file/d/1EDGPv1YmtgBhCgj0Sh5yQvlwDrtRHUUE/view?usp=share_link)
 
 ## Courses 
 
